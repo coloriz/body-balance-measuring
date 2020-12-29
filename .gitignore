@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+
+# Environments
+venv/
+
+# vs-code
+.vscode/
+
+# playground files
+playground*.py
